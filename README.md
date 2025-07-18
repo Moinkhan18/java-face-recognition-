@@ -1,2 +1,2 @@
 # Java face recognition system
-Java-based face recognition system using the eigenfaces algorithm.
+Java-based desktop application that recognizes faces from images and allows users to train and test face data through a simple interface. 
